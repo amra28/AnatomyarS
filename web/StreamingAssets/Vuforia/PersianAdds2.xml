@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="f4_135" size="0.125000 0.170727" />
+    <ImageTarget name="f4_130" size="0.125000 0.170727" />
+    <ImageTarget name="f4_102" size="0.125000 0.170727" />
+    <ImageTarget name="f4_88" size="0.125000 0.170727" />
+    <ImageTarget name="f4_87" size="0.125000 0.170727" />
+    <ImageTarget name="f4_67" size="0.125000 0.170727" />
+    <ImageTarget name="f4_42" size="0.125000 0.170727" />
+    <ImageTarget name="f4_18" size="0.125000 0.170727" />
+    <ImageTarget name="f4_10" size="0.125000 0.170727" />
+    <ImageTarget name="f5_122" size="0.125000 0.171231" />
+    <ImageTarget name="f5_114" size="0.125000 0.171493" />
+    <ImageTarget name="f5_64" size="0.125000 0.171714" />
+    <ImageTarget name="f5_10" size="0.125000 0.170790" />
+    <ImageTarget name="f6_78" size="0.125000 0.170727" />
+    <ImageTarget name="f6_74" size="0.125000 0.170727" />
+    <ImageTarget name="f6_66" size="0.125000 0.170727" />
+    <ImageTarget name="f6_62" size="0.125000 0.170727" />
+    <ImageTarget name="f6_56" size="0.125000 0.170727" />
+    <ImageTarget name="f6_32" size="0.125000 0.170727" />
+    <ImageTarget name="f6_26" size="0.125000 0.170727" />
+    <ImageTarget name="f6_13" size="0.125000 0.170727" />
+    <ImageTarget name="f6_8" size="0.125000 0.170727" />
+    <ImageTarget name="f7_119" size="0.125000 0.176529" />
+    <ImageTarget name="f7_36" size="0.125000 0.176529" />
+    <ImageTarget name="f8_35" size="0.125000 0.176363" />
+    <ImageTarget name="f10_151" size="0.125000 0.176402" />
+    <ImageTarget name="f10_146" size="0.125000 0.176402" />
+    <ImageTarget name="f10_65" size="0.125000 0.176402" />
+    <ImageTarget name="f10_49" size="0.125000 0.176402" />
+    <ImageTarget name="f10_44" size="0.125000 0.176402" />
+    <ImageTarget name="f10_31" size="0.125000 0.176402" />
+    <ImageTarget name="f10_21" size="0.125000 0.176402" />
+    <ImageTarget name="f10_17" size="0.125000 0.176402" />
+    <ImageTarget name="f11_95" size="0.125000 0.176402" />
+    <ImageTarget name="f11_86" size="0.125000 0.176402" />
+    <ImageTarget name="f11_66" size="0.125000 0.176402" />
+  </Tracking>
+</QCARConfig>

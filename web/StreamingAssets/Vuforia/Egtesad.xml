@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="e10_150" size="0.125000 0.176272" />
+    <ImageTarget name="e10_140" size="0.125000 0.176272" />
+    <ImageTarget name="e10_130" size="0.125000 0.176272" />
+    <ImageTarget name="e10_116" size="0.125000 0.176272" />
+    <ImageTarget name="e10_105" size="0.125000 0.176272" />
+    <ImageTarget name="e10_92" size="0.125000 0.176272" />
+    <ImageTarget name="e10_82" size="0.125000 0.176272" />
+    <ImageTarget name="e10_69" size="0.125000 0.176272" />
+    <ImageTarget name="e10_55" size="0.125000 0.176272" />
+    <ImageTarget name="e10_44" size="0.125000 0.176272" />
+    <ImageTarget name="e10_34" size="0.125000 0.176272" />
+    <ImageTarget name="e10_22" size="0.125000 0.176272" />
+    <ImageTarget name="e10_12" size="0.125000 0.176272" />
+    <ImageTarget name="e10_2" size="0.125000 0.176272" />
+  </Tracking>
+</QCARConfig>

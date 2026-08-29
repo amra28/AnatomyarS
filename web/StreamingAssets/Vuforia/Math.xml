@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="m2_7" size="0.125000 0.170727" />
+    <ImageTarget name="m2_15" size="0.125000 0.170727" />
+    <ImageTarget name="m2_38" size="0.125000 0.170727" />
+    <ImageTarget name="m2_40" size="0.125000 0.170727" />
+    <ImageTarget name="m2_42" size="0.125000 0.170727" />
+    <ImageTarget name="m3_14" size="0.125000 0.170727" />
+    <ImageTarget name="m3_23" size="0.125000 0.170727" />
+    <ImageTarget name="m3_83" size="0.125000 0.170727" />
+    <ImageTarget name="m3_84" size="0.125000 0.170727" />
+    <ImageTarget name="m3_88" size="0.125000 0.170727" />
+    <ImageTarget name="m3_120" size="0.125000 0.170727" />
+    <ImageTarget name="m3_122" size="0.125000 0.170727" />
+    <ImageTarget name="m3_123" size="0.125000 0.170727" />
+    <ImageTarget name="c5_113" size="0.125000 0.170727" />
+    <ImageTarget name="c5_76" size="0.125000 0.170727" />
+    <ImageTarget name="c4_26" size="0.125000 0.170727" />
+    <ImageTarget name="m8_46" size="0.100000 0.141122" />
+    <ImageTarget name="m9_140" size="0.100000 0.141122" />
+    <ImageTarget name="m9_139" size="0.100000 0.141122" />
+    <ImageTarget name="m9_138" size="0.100000 0.141122" />
+    <ImageTarget name="m9_135" size="0.100000 0.141122" />
+    <ImageTarget name="m9_133" size="0.100000 0.141122" />
+    <ImageTarget name="m9_131" size="0.100000 0.141122" />
+    <ImageTarget name="m9_56" size="0.100000 0.141122" />
+    <ImageTarget name="m9_35" size="0.100000 0.141122" />
+    <ImageTarget name="m8_87" size="0.100000 0.141122" />
+    <ImageTarget name="m8_86" size="0.100000 0.141122" />
+    <ImageTarget name="m8_59" size="0.100000 0.141122" />
+    <ImageTarget name="m8_44" size="0.100000 0.141122" />
+    <ImageTarget name="m8_31" size="0.100000 0.141122" />
+    <ImageTarget name="m8_30" size="0.100000 0.141122" />
+    <ImageTarget name="m7_76" size="0.100000 0.131709" />
+    <ImageTarget name="m7_71" size="0.100000 0.131709" />
+    <ImageTarget name="m7_70" size="0.100000 0.131709" />
+    <ImageTarget name="m7_46" size="0.100000 0.131709" />
+    <ImageTarget name="m7_31" size="0.100000 0.131709" />
+    <ImageTarget name="m7_30" size="0.100000 0.131709" />
+    <ImageTarget name="m7_21" size="0.100000 0.131709" />
+    <ImageTarget name="m7_1" size="0.100000 0.131709" />
+    <ImageTarget name="m6_107" size="0.100000 0.136581" />
+    <ImageTarget name="m6_101" size="0.100000 0.136581" />
+    <ImageTarget name="m6_95" size="0.100000 0.136581" />
+    <ImageTarget name="m6_94" size="0.100000 0.136581" />
+    <ImageTarget name="m6_75" size="0.100000 0.136581" />
+    <ImageTarget name="m6_73" size="0.100000 0.136581" />
+    <ImageTarget name="m6_69" size="0.100000 0.136581" />
+    <ImageTarget name="m6_66" size="0.100000 0.136581" />
+    <ImageTarget name="m6_64" size="0.100000 0.136581" />
+    <ImageTarget name="m6_55" size="0.100000 0.136581" />
+    <ImageTarget name="m6_16" size="0.100000 0.136581" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="ta10_020" size="0.125000 0.164553" />
+    <ImageTarget name="ta10_070" size="0.125000 0.164553" />
+    <ImageTarget name="ta10_050" size="0.125000 0.164553" />
+    <ImageTarget name="ta10_143" size="0.125000 0.164553" />
+    <ImageTarget name="ta10_128" size="0.125000 0.164553" />
+    <ImageTarget name="ta10_099" size="0.125000 0.164553" />
+    <ImageTarget name="ta10_090" size="0.125000 0.164553" />
+    <ImageTarget name="ta10_118" size="0.125000 0.164553" />
+    <ImageTarget name="ta10_042" size="0.125000 0.164553" />
+    <ImageTarget name="ta10_012" size="0.125000 0.164553" />
+    <ImageTarget name="ta10_080" size="0.125000 0.164553" />
+    <ImageTarget name="ta10_109" size="0.125000 0.164553" />
+    <ImageTarget name="ta10_062" size="0.125000 0.164553" />
+    <ImageTarget name="ta10_136" size="0.125000 0.164553" />
+    <ImageTarget name="ta10_030" size="0.125000 0.164553" />
+    <ImageTarget name="ta10_002" size="0.125000 0.164553" />
+    <ImageTarget name="ta11_160" size="0.125000 0.164553" />
+    <ImageTarget name="ta11_173" size="0.125000 0.164553" />
+    <ImageTarget name="ta11_135" size="0.125000 0.164553" />
+    <ImageTarget name="ta11_148" size="0.125000 0.164553" />
+    <ImageTarget name="ta11_066" size="0.125000 0.164553" />
+    <ImageTarget name="ta11_125" size="0.125000 0.164553" />
+    <ImageTarget name="ta11_101" size="0.125000 0.164553" />
+    <ImageTarget name="ta11_114" size="0.125000 0.164553" />
+    <ImageTarget name="ta11_089" size="0.125000 0.164553" />
+    <ImageTarget name="ta11_020" size="0.125000 0.164553" />
+    <ImageTarget name="ta11_042" size="0.125000 0.164553" />
+    <ImageTarget name="ta11_080" size="0.125000 0.164553" />
+    <ImageTarget name="ta11_030" size="0.125000 0.164553" />
+    <ImageTarget name="ta11_053" size="0.125000 0.164553" />
+    <ImageTarget name="ta11_013" size="0.125000 0.164553" />
+    <ImageTarget name="ta11_002" size="0.125000 0.164553" />
+  </Tracking>
+</QCARConfig>

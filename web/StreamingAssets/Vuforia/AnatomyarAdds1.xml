@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="3_128" size="0.125000 0.170727" />
+    <ImageTarget name="3_122" size="0.125000 0.170727" />
+    <ImageTarget name="3_119" size="0.125000 0.170727" />
+    <ImageTarget name="3_114" size="0.125000 0.170727" />
+    <ImageTarget name="3_108" size="0.125000 0.170727" />
+    <ImageTarget name="3_97" size="0.125000 0.170727" />
+    <ImageTarget name="3_96" size="0.125000 0.170727" />
+    <ImageTarget name="3_28" size="0.125000 0.170727" />
+    <ImageTarget name="9_152" size="0.125000 0.176402" />
+    <ImageTarget name="9_149" size="0.125000 0.176402" />
+    <ImageTarget name="9_138" size="0.125000 0.176402" />
+    <ImageTarget name="9_130" size="0.125000 0.176402" />
+    <ImageTarget name="9_24" size="0.125000 0.176402" />
+    <ImageTarget name="9_23" size="0.125000 0.176402" />
+    <ImageTarget name="6_49" size="0.125000 0.178499" />
+    <ImageTarget name="6_42" size="0.125000 0.178499" />
+    <ImageTarget name="6_23" size="0.125000 0.178499" />
+    <ImageTarget name="6_15" size="0.125000 0.178499" />
+    <ImageTarget name="6_94" size="0.125000 0.178499" />
+    <ImageTarget name="6_80" size="0.125000 0.178499" />
+    <ImageTarget name="2_75" size="0.125000 0.170727" />
+    <ImageTarget name="2_73" size="0.125000 0.170727" />
+    <ImageTarget name="2_71" size="0.125000 0.170727" />
+    <ImageTarget name="2_59" size="0.125000 0.170727" />
+    <ImageTarget name="2_48" size="0.125000 0.170727" />
+    <ImageTarget name="2_37" size="0.125000 0.170727" />
+    <ImageTarget name="2_34" size="0.125000 0.170727" />
+    <ImageTarget name="2_26" size="0.125000 0.170727" />
+    <ImageTarget name="1_98" size="0.125000 0.168676" />
+    <ImageTarget name="1_95" size="0.125000 0.168676" />
+    <ImageTarget name="1_87" size="0.125000 0.168676" />
+    <ImageTarget name="1_76" size="0.125000 0.168676" />
+    <ImageTarget name="1_62" size="0.125000 0.168676" />
+    <ImageTarget name="1_55" size="0.125000 0.168676" />
+  </Tracking>
+</QCARConfig>

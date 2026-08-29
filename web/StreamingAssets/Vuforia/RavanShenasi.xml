@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="ra11_186" size="0.125000 0.176026" />
+    <ImageTarget name="ra11_158" size="0.125000 0.176026" />
+    <ImageTarget name="ra11_134" size="0.125000 0.176026" />
+    <ImageTarget name="ra11_112" size="0.125000 0.176026" />
+    <ImageTarget name="ra11_088" size="0.125000 0.176026" />
+    <ImageTarget name="ra11_066" size="0.125000 0.176026" />
+    <ImageTarget name="ra11_008" size="0.125000 0.176026" />
+    <ImageTarget name="ra11_034" size="0.125000 0.176026" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="j11_75" size="0.125000 0.176256" />
+    <ImageTarget name="j11_27" size="0.125000 0.176256" />
+    <ImageTarget name="j10_93" size="0.125000 0.176256" />
+    <ImageTarget name="j10_86" size="0.125000 0.176256" />
+    <ImageTarget name="j10_67" size="0.125000 0.176364" />
+    <ImageTarget name="j10_21" size="0.125000 0.176256" />
+    <ImageTarget name="j10_3" size="0.125000 0.176256" />
+    <ImageTarget name="j12_82" size="0.125000 0.176372" />
+    <ImageTarget name="j12_42" size="0.125000 0.176372" />
+    <ImageTarget name="j12_69" size="0.125000 0.176372" />
+    <ImageTarget name="j12_10" size="0.125000 0.176372" />
+    <ImageTarget name="j12_54" size="0.125000 0.176372" />
+    <ImageTarget name="j12_19" size="0.125000 0.176372" />
+    <ImageTarget name="j12_105" size="0.125000 0.176372" />
+    <ImageTarget name="j12_32" size="0.125000 0.176372" />
+    <ImageTarget name="j12_93" size="0.125000 0.176372" />
+    <ImageTarget name="j12_116" size="0.125000 0.176402" />
+    <ImageTarget name="j12_2" size="0.125000 0.176372" />
+    <ImageTarget name="j11_107" size="0.125000 0.176921" />
+    <ImageTarget name="j11_115" size="0.125000 0.176256" />
+    <ImageTarget name="j11_124" size="0.125000 0.176256" />
+    <ImageTarget name="j11_98" size="0.125000 0.176256" />
+    <ImageTarget name="j11_83" size="0.125000 0.178079" />
+    <ImageTarget name="j11_91" size="0.125000 0.176256" />
+    <ImageTarget name="j11_55" size="0.125000 0.176256" />
+    <ImageTarget name="j11_64" size="0.125000 0.176256" />
+    <ImageTarget name="j11_45" size="0.125000 0.176256" />
+    <ImageTarget name="j11_37" size="0.125000 0.176256" />
+    <ImageTarget name="j11_11" size="0.125000 0.178079" />
+    <ImageTarget name="j11_19" size="0.125000 0.176402" />
+    <ImageTarget name="j11_3" size="0.125000 0.176256" />
+    <ImageTarget name="j10_132" size="0.125000 0.176256" />
+    <ImageTarget name="j10_123" size="0.125000 0.176256" />
+    <ImageTarget name="j10_108" size="0.125000 0.176256" />
+    <ImageTarget name="j10_100" size="0.125000 0.176256" />
+    <ImageTarget name="j10_55" size="0.125000 0.176256" />
+    <ImageTarget name="j10_79" size="0.125000 0.176256" />
+    <ImageTarget name="j10_38" size="0.125000 0.176256" />
+    <ImageTarget name="j10_45" size="0.125000 0.176256" />
+    <ImageTarget name="j10_29" size="0.125000 0.176256" />
+    <ImageTarget name="j10_10" size="0.125000 0.176256" />
+  </Tracking>
+</QCARConfig>

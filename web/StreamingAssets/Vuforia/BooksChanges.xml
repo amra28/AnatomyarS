@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="B12_9" size="0.100000 0.131709" />
+    <ImageTarget name="B12_8" size="0.100000 0.131709" />
+    <ImageTarget name="S9_135" size="0.100000 0.141122" />
+    <ImageTarget name="S9_128" size="0.100000 0.141122" />
+    <ImageTarget name="S9_127" size="0.100000 0.141122" />
+    <ImageTarget name="S9_124" size="0.100000 0.141122" />
+    <ImageTarget name="S6_81" size="0.100000 0.142800" />
+    <ImageTarget name="S6_78" size="0.100000 0.142800" />
+    <ImageTarget name="S6_75" size="0.100000 0.142800" />
+    <ImageTarget name="S5_57" size="0.100000 0.142800" />
+    <ImageTarget name="S5_51" size="0.100000 0.142800" />
+    <ImageTarget name="S5_50" size="0.100000 0.142800" />
+    <ImageTarget name="S4_114" size="0.100000 0.142857" />
+    <ImageTarget name="S4_78" size="0.100000 0.143108" />
+    <ImageTarget name="S3_118" size="0.100000 0.136581" />
+    <ImageTarget name="S3_117" size="0.100000 0.136581" />
+    <ImageTarget name="S3_116" size="0.100000 0.136581" />
+    <ImageTarget name="S2_74" size="0.100000 0.136581" />
+    <ImageTarget name="S1_45" size="0.100000 0.134941" />
+    <ImageTarget name="B8_53" size="0.100000 0.141122" />
+    <ImageTarget name="B8_46" size="0.100000 0.141122" />
+    <ImageTarget name="B8_45" size="0.100000 0.141122" />
+    <ImageTarget name="B8_40" size="0.100000 0.141122" />
+  </Tracking>
+</QCARConfig>

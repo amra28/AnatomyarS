@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="f7_23" size="0.125000 0.176272" />
+    <ImageTarget name="f8_30" size="0.125000 0.176272" />
+    <ImageTarget name="f4_83" size="0.125000 0.170727" />
+    <ImageTarget name="f4_64" size="0.125000 0.170727" />
+    <ImageTarget name="f3_103" size="0.125000 0.170727" />
+    <ImageTarget name="f3_91" size="0.125000 0.170727" />
+    <ImageTarget name="f3_50" size="0.125000 0.170727" />
+    <ImageTarget name="f2_93" size="0.125000 0.170727" />
+    <ImageTarget name="f2_77" size="0.125000 0.170727" />
+    <ImageTarget name="f2_30" size="0.125000 0.170727" />
+    <ImageTarget name="f2_2" size="0.125000 0.170727" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="FL12_2" size="0.125000 0.176337" />
+    <ImageTarget name="FL12_97" size="0.125000 0.176337" />
+    <ImageTarget name="FL12_87" size="0.125000 0.176337" />
+    <ImageTarget name="FL12_78" size="0.125000 0.176337" />
+    <ImageTarget name="FL12_70" size="0.125000 0.176337" />
+    <ImageTarget name="FL12_59" size="0.125000 0.176337" />
+    <ImageTarget name="FL12_52" size="0.125000 0.176337" />
+    <ImageTarget name="FL12_41" size="0.125000 0.176337" />
+    <ImageTarget name="FL12_30" size="0.125000 0.176337" />
+    <ImageTarget name="FL12_22" size="0.125000 0.176337" />
+    <ImageTarget name="FL12_13" size="0.125000 0.176337" />
+    <ImageTarget name="FL12_8" size="0.125000 0.176337" />
+    <ImageTarget name="FL11_83" size="0.125000 0.176402" />
+    <ImageTarget name="FL11_76" size="0.125000 0.176402" />
+    <ImageTarget name="FL11_70" size="0.125000 0.176402" />
+    <ImageTarget name="FL11_58" size="0.125000 0.176402" />
+    <ImageTarget name="FL11_50" size="0.125000 0.176402" />
+    <ImageTarget name="FL11_44" size="0.125000 0.176402" />
+    <ImageTarget name="FL11_36" size="0.125000 0.176402" />
+    <ImageTarget name="FL11_28" size="0.125000 0.176402" />
+    <ImageTarget name="FL11_12" size="0.125000 0.176402" />
+    <ImageTarget name="FL11_19" size="0.125000 0.176402" />
+    <ImageTarget name="FL11_2" size="0.125000 0.176402" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="MG10_99" size="0.125000 0.176337" />
+    <ImageTarget name="MG10_85" size="0.125000 0.176337" />
+    <ImageTarget name="MG10_72" size="0.125000 0.176337" />
+    <ImageTarget name="MG10_62" size="0.125000 0.176337" />
+    <ImageTarget name="MG10_55" size="0.125000 0.176337" />
+    <ImageTarget name="MG10_41" size="0.125000 0.176337" />
+    <ImageTarget name="MG10_29" size="0.125000 0.176337" />
+    <ImageTarget name="MG10_13" size="0.125000 0.176337" />
+    <ImageTarget name="MG10_20" size="0.125000 0.176337" />
+    <ImageTarget name="MG10_3" size="0.125000 0.176337" />
+  </Tracking>
+</QCARConfig>

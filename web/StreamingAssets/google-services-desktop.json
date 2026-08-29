@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "904872763689",
+    "project_id": "anatomyar-s",
+    "storage_bucket": "anatomyar-s.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904872763689:android:7dcad0a34fe1afc8bc1738",
+        "android_client_info": {
+          "package_name": "com.Anatomyar.AnatomyarS"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbNmfGGx9XbPl498Cfyf-kNinbGRUXSIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

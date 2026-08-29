@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="h10_31" size="0.100000 0.134084" />
+    <ImageTarget name="h10_37" size="0.100000 0.133632" />
+    <ImageTarget name="h10_62" size="0.100000 0.134084" />
+    <ImageTarget name="h11_42" size="0.100000 0.136975" />
+    <ImageTarget name="h11_31" size="0.100000 0.130103" />
+    <ImageTarget name="h12_35" size="0.100000 0.134941" />
+    <ImageTarget name="h12_34" size="0.100000 0.134941" />
+    <ImageTarget name="h12_45" size="0.100000 0.134941" />
+    <ImageTarget name="h12_44" size="0.100000 0.134941" />
+    <ImageTarget name="h12_43" size="0.100000 0.134941" />
+    <ImageTarget name="h12_40" size="0.100000 0.134941" />
+    <ImageTarget name="h12_38" size="0.100000 0.134941" />
+    <ImageTarget name="h12_36" size="0.100000 0.134941" />
+    <ImageTarget name="h12_58" size="0.100000 0.134941" />
+    <ImageTarget name="h12_56" size="0.100000 0.134941" />
+    <ImageTarget name="h12_50" size="0.100000 0.134941" />
+    <ImageTarget name="h12_48" size="0.100000 0.134941" />
+    <ImageTarget name="h12_47" size="0.100000 0.134941" />
+    <ImageTarget name="h12_68" size="0.100000 0.134941" />
+    <ImageTarget name="h12_66" size="0.100000 0.134941" />
+    <ImageTarget name="h12_64" size="0.100000 0.134941" />
+    <ImageTarget name="h12_73" size="0.100000 0.134941" />
+    <ImageTarget name="h12_72" size="0.100000 0.134941" />
+    <ImageTarget name="h12_71" size="0.100000 0.134941" />
+    <ImageTarget name="h12_69" size="0.100000 0.134941" />
+    <ImageTarget name="h12_86" size="0.100000 0.134941" />
+    <ImageTarget name="h12_83" size="0.100000 0.134941" />
+    <ImageTarget name="h11_11" size="0.100000 0.131668" />
+    <ImageTarget name="h11_12" size="0.100000 0.131668" />
+    <ImageTarget name="h11_17" size="0.100000 0.131668" />
+    <ImageTarget name="h11_19" size="0.100000 0.131668" />
+    <ImageTarget name="h11_20" size="0.100000 0.131668" />
+    <ImageTarget name="h11_21" size="0.100000 0.131668" />
+    <ImageTarget name="h11_22" size="0.100000 0.131668" />
+    <ImageTarget name="h11_23" size="0.100000 0.131668" />
+    <ImageTarget name="h11_24" size="0.100000 0.131668" />
+    <ImageTarget name="h11_25" size="0.100000 0.131668" />
+    <ImageTarget name="h11_26" size="0.100000 0.131668" />
+    <ImageTarget name="h11_29" size="0.100000 0.131668" />
+    <ImageTarget name="h11_30" size="0.100000 0.131668" />
+    <ImageTarget name="h11_40" size="0.100000 0.131668" />
+    <ImageTarget name="h11_47" size="0.100000 0.131668" />
+    <ImageTarget name="h11_51" size="0.100000 0.131668" />
+    <ImageTarget name="h11_52" size="0.100000 0.131699" />
+    <ImageTarget name="h11_54" size="0.100000 0.131668" />
+    <ImageTarget name="h11_66" size="0.100000 0.131668" />
+    <ImageTarget name="h11_69" size="0.100000 0.131668" />
+    <ImageTarget name="h10_94" size="0.100000 0.134956" />
+    <ImageTarget name="h10_93" size="0.100000 0.134956" />
+    <ImageTarget name="h10_64" size="0.100000 0.134956" />
+    <ImageTarget name="h10_57" size="0.100000 0.134956" />
+    <ImageTarget name="h10_56" size="0.100000 0.134956" />
+    <ImageTarget name="h10_40" size="0.100000 0.134956" />
+    <ImageTarget name="h10_36" size="0.100000 0.134956" />
+    <ImageTarget name="h10_34" size="0.100000 0.134956" />
+    <ImageTarget name="h10_75" size="0.100000 0.134941" />
+    <ImageTarget name="h11_58" size="0.100000 0.134941" />
+    <ImageTarget name="h11_57" size="0.100000 0.134941" />
+    <ImageTarget name="h11_56" size="0.100000 0.134941" />
+    <ImageTarget name="h10_50" size="0.100000 0.134941" />
+    <ImageTarget name="h10_43" size="0.100000 0.134941" />
+  </Tracking>
+</QCARConfig>

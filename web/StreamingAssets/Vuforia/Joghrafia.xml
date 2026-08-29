@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="jo12_101" size="0.125000 0.164637" />
+    <ImageTarget name="jo12_82" size="0.125000 0.164637" />
+    <ImageTarget name="jo12_59" size="0.125000 0.164637" />
+    <ImageTarget name="jo12_42" size="0.125000 0.164637" />
+    <ImageTarget name="jo12_21" size="0.125000 0.164637" />
+    <ImageTarget name="jo12_2" size="0.125000 0.164637" />
+    <ImageTarget name="jo10_2" size="0.125000 0.168676" />
+    <ImageTarget name="jo10_14" size="0.125000 0.168676" />
+    <ImageTarget name="jo10_8" size="0.125000 0.168676" />
+    <ImageTarget name="jo10_47" size="0.125000 0.168676" />
+    <ImageTarget name="jo10_77" size="0.125000 0.168676" />
+    <ImageTarget name="jo10_64" size="0.125000 0.168676" />
+    <ImageTarget name="jo10_83" size="0.125000 0.168676" />
+    <ImageTarget name="jo10_94" size="0.125000 0.168676" />
+    <ImageTarget name="jo10_22" size="0.125000 0.168676" />
+    <ImageTarget name="jo10_34" size="0.125000 0.168676" />
+  </Tracking>
+</QCARConfig>

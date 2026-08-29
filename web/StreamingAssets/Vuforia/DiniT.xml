@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="DT12_126" size="0.125000 0.176337" />
+    <ImageTarget name="DT12_108" size="0.125000 0.176337" />
+    <ImageTarget name="DT12_94" size="0.125000 0.176337" />
+    <ImageTarget name="DT12_80" size="0.125000 0.176337" />
+    <ImageTarget name="DT12_64" size="0.125000 0.176337" />
+    <ImageTarget name="DT12_52" size="0.125000 0.176337" />
+    <ImageTarget name="DT12_42" size="0.125000 0.176337" />
+    <ImageTarget name="DT12_30" size="0.125000 0.176337" />
+    <ImageTarget name="DT12_18" size="0.125000 0.176337" />
+    <ImageTarget name="DT12_6" size="0.125000 0.176337" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="S7_101" size="0.125000 0.164637" />
+    <ImageTarget name="S7_102" size="0.125000 0.164637" />
+    <ImageTarget name="S3_127" size="0.125000 0.170727" />
+  </Tracking>
+</QCARConfig>

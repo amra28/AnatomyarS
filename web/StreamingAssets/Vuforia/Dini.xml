@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="D11_222" size="0.125000 0.176337" />
+    <ImageTarget name="D11_208" size="0.125000 0.176337" />
+    <ImageTarget name="D11_196" size="0.125000 0.176337" />
+    <ImageTarget name="D11_180" size="0.125000 0.176337" />
+    <ImageTarget name="D11_170" size="0.125000 0.176337" />
+    <ImageTarget name="D11_156" size="0.125000 0.176337" />
+    <ImageTarget name="D11_148" size="0.125000 0.176337" />
+    <ImageTarget name="D11_134" size="0.125000 0.176337" />
+    <ImageTarget name="D11_110" size="0.125000 0.176337" />
+    <ImageTarget name="D11_122" size="0.125000 0.176337" />
+    <ImageTarget name="D11_96" size="0.125000 0.176337" />
+    <ImageTarget name="D11_82" size="0.125000 0.176337" />
+    <ImageTarget name="D11_68" size="0.125000 0.176337" />
+    <ImageTarget name="D11_54" size="0.125000 0.176337" />
+    <ImageTarget name="D11_40" size="0.125000 0.176337" />
+    <ImageTarget name="D11_28" size="0.125000 0.176337" />
+    <ImageTarget name="D11_16" size="0.125000 0.176337" />
+    <ImageTarget name="D11_6" size="0.125000 0.176337" />
+    <ImageTarget name="D12_156" size="0.125000 0.176337" />
+    <ImageTarget name="D12_146" size="0.125000 0.176337" />
+    <ImageTarget name="D12_132" size="0.125000 0.176337" />
+    <ImageTarget name="D12_122" size="0.125000 0.176337" />
+    <ImageTarget name="D12_108" size="0.125000 0.176337" />
+    <ImageTarget name="D12_94" size="0.125000 0.176337" />
+    <ImageTarget name="D12_82" size="0.125000 0.176337" />
+    <ImageTarget name="D12_66" size="0.125000 0.176337" />
+    <ImageTarget name="D12_54" size="0.125000 0.176337" />
+    <ImageTarget name="D12_42" size="0.125000 0.176337" />
+    <ImageTarget name="D12_30" size="0.125000 0.176337" />
+    <ImageTarget name="D12_18" size="0.125000 0.176337" />
+    <ImageTarget name="D12_6" size="0.125000 0.176337" />
+    <ImageTarget name="D10_117" size="0.125000 0.176402" />
+    <ImageTarget name="D10_104" size="0.125000 0.176402" />
+    <ImageTarget name="D10_89" size="0.125000 0.176402" />
+    <ImageTarget name="D10_83" size="0.125000 0.176402" />
+    <ImageTarget name="D10_70" size="0.125000 0.176402" />
+    <ImageTarget name="D10_58" size="0.125000 0.176402" />
+    <ImageTarget name="D10_50" size="0.125000 0.176402" />
+    <ImageTarget name="D10_42" size="0.125000 0.176402" />
+    <ImageTarget name="D10_33" size="0.125000 0.176402" />
+    <ImageTarget name="D10_22" size="0.125000 0.176402" />
+    <ImageTarget name="D10_12" size="0.125000 0.176402" />
+    <ImageTarget name="D10_2" size="0.125000 0.176402" />
+  </Tracking>
+</QCARConfig>

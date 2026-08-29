@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="ZA11_109" size="0.125000 0.164585" />
+    <ImageTarget name="ZA11_93" size="0.125000 0.164585" />
+    <ImageTarget name="ZA11_77" size="0.125000 0.164585" />
+    <ImageTarget name="ZA11_59" size="0.125000 0.164585" />
+    <ImageTarget name="ZA11_41" size="0.125000 0.164585" />
+    <ImageTarget name="ZA11_23" size="0.125000 0.164585" />
+    <ImageTarget name="ZA11_9" size="0.125000 0.164585" />
+    <ImageTarget name="z11-36" size="0.100000 0.131965" />
+    <ImageTarget name="z11_66" size="0.100000 0.131668" />
+    <ImageTarget name="z11_65" size="0.100000 0.131668" />
+    <ImageTarget name="z11_63" size="0.100000 0.131668" />
+    <ImageTarget name="z11_60" size="0.100000 0.131668" />
+    <ImageTarget name="z11_53" size="0.100000 0.131668" />
+    <ImageTarget name="z11_38" size="0.100000 0.131668" />
+  </Tracking>
+</QCARConfig>
